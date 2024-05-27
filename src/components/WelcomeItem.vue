@@ -1,5 +1,5 @@
 <template>
-  <div class="item">
+  <div class="item mx-4">
     <i>
       <slot name="icon"></slot>
     </i>
